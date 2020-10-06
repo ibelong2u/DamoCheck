@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\damoManifest.xml
+C:\Users\adity\source\repos\damo\bin\Debug\damo.debugapp
